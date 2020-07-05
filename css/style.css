@@ -1,0 +1,24 @@
+.carousel-item {
+  padding: 20px;
+}
+
+/* Carousel Btn Background and color change */
+.btn-color {
+  background-color: #fc116fcc;
+  border-color: #fc116fcc;
+}
+
+.btn-color:hover {
+  background-color: #ec2580;
+  border-color: #ec2576;
+}
+
+.btn-color:focus {
+  background-color: #ff0468 !important;
+  border-color: #fc116fcc !important;
+  box-shadow: 0 0 0 0.2rem #f73482a2 !important;
+}
+
+.prize {
+  color: #ec2576;
+}
